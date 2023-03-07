@@ -16,6 +16,6 @@ else if (x > y )
 }
 else
 {
-    print("x == y\n");
+    printf("x == y\n");
 }
 }
