@@ -5,6 +5,7 @@ int main(void)
     int i = 0;
     while (i < 3)
     {
-        printf("meow\n")
+        printf("meow\n");
+        i++;
     }
 }
