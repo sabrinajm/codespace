@@ -1,4 +1,4 @@
-#include<cs50.h>
+#include<cs50.h>§§00000±±
 #include<stdio.h>
 int main(void)
 {
